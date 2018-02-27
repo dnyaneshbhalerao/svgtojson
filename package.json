@@ -1,0 +1,27 @@
+{
+  "name": "svgtojson",
+  "version": "1.0.0",
+  "description": "'Converts html and svg files into json'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnyaneshbhalerao/svgtojson.git"
+  },
+  "keywords": [
+    "JSON",
+    "svg",
+    "html"
+  ],
+  "author": "'Dnyaneshwar Bhalerao'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnyaneshbhalerao/svgtojson/issues"
+  },
+  "homepage": "https://github.com/dnyaneshbhalerao/svgtojson#readme",
+  "dependencies": {
+    "himalaya": "^1.0.1"
+  }
+}
