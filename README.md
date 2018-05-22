@@ -1,2 +1,2 @@
 # svgtojson
-Script to convert svg/html files to convert in json
+Script to convert svg/html files in json readable form.
